@@ -1,0 +1,7 @@
+class Add():
+
+
+        def addition(self, a, b):
+        return a + b
+        print("Addition:", addition.add(10, 5))
+        
